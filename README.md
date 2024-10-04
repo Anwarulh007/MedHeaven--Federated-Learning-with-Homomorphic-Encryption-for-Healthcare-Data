@@ -1,4 +1,4 @@
-# MedHeaven: Federated Learning with Homomorphic Encryption for Healthcare Data
+# MedHeaven - Federated Learning with Homomorphic Encryption for Healthcare Data
 
 This project demonstrates a privacy-preserving federated learning system using **TensorFlow Federated (TFF)** and **homomorphic encryption** to secure patient data in collaborative healthcare environments. The project leverages Google Drive as the global server, securely managing model updates and ensuring that no private data is exposed during training.
 
