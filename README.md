@@ -26,6 +26,9 @@ In this project, we work with a healthcare dataset to predict patient readmissio
 5. **Federated Averaging**: Aggregate encrypted updates from different clients on the global server (Google Drive) and perform federated learning.
 6. **Validation**: Compare encrypted and decrypted model weights to ensure accuracy and privacy preservation.
 
+## 🚀 **Project Workflow Diagram**
+<img src="https://github.com/Anwarulh007/Medheaven/blob/main/flowchart%20pic.jpg" alt="Flowchart" width = "1000">
+
 ## 🔐 **Privacy Preservation**
 This project is designed to ensure privacy at every step. By using **homomorphic encryption**, we maintain the confidentiality of model weights, and by using **federated learning**, no private data leaves the local environment. The privacy measure function checks for any discrepancies between the original and decrypted weights to guarantee privacy.
 
