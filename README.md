@@ -35,7 +35,7 @@ This project is designed to ensure privacy at every step. By using **homomorphic
 ## 🖥️ **How to Run**
 1. Clone this repository.
    ```bash
-   git clone https://github.com/Anwarulh007/Medheaven
+   git clone https://github.com/Anwarulh007/MedHeaven--Federated-Learning-with-Homomorphic-Encryption-for-Healthcare-Data
 2. Install the required packages:
 pip install -r requirements.txt
 3. Upload the necessary dataset (e.g., johns_hospital_data.csv) to your Colab environment.
