@@ -25,7 +25,7 @@ In this project, we work with a healthcare dataset to predict patient readmissio
 ## Flowchart
 
 <p align="center"> 
- <img src="https://github.com/Anwarulh007/MedHeaven--Federated-Learning-with-Homomorphic-Encryption-for-Healthcare-Data/blob/main/Flowchart%20Final.jpg" alt="Flowchart" style="width: auto; height: 500px;"/> 
+ <img src="https://github.com/Anwarulh007/MedHeaven--Federated-Learning-with-Homomorphic-Encryption-for-Healthcare-Data/blob/main/Flowchart%20Final.jpg" alt="Flowchart" style="width: auto; height: 700px;"/> 
 </p>
 
 ## 🚀 **Project Workflow**
