@@ -58,8 +58,11 @@ The dataset used in this project consists of anonymized patient information from
 <img src="https://github.com/Anwarulh007/Medheaven/blob/main/output%20of%20tff.jpg" alt="Dataset" width = "1000">
 
 ## ✨ Key Algorithms
-Federated Averaging: A method to average model updates from multiple clients.
-Homomorphic Encryption: Using the BFV scheme from PySEAL to encrypt model parameters.
+**Federated Averaging**
+A method to average model updates from multiple clients.
+
+**Homomorphic Encryption**
+Using this encryption model from TenSEAL to encrypt model parameters.
 
 ## 🌐 Contributors
 Anwarul - Project Lead and Developer
