@@ -60,10 +60,10 @@ The dataset used in this project consists of anonymized patient information from
 
 ## ✨ Key Algorithms
 **Federated Averaging**
-A method to average model updates from multiple clients.
+: A method to average model updates from multiple clients.
 
 **Homomorphic Encryption**
-Using this encryption model from TenSEAL to encrypt model parameters.
+: Using this encryption model from TenSEAL to encrypt model parameters.
 
 ## 🌐 Contributors
 Anwarul - Project Lead and Developer
