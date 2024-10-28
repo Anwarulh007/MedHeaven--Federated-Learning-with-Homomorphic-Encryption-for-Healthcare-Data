@@ -3,8 +3,9 @@
 This project demonstrates a privacy-preserving federated learning system using **TensorFlow Federated (TFF)** and **homomorphic encryption** to secure patient data in collaborative healthcare environments. The project leverages Google Drive as the global server, securely managing model updates and ensuring that no private data is exposed during training.
 
 <p align="center"> 
- <img src="https://github.com/Anwarulh007/MedHeaven--Federated-Learning-with-Homomorphic-Encryption-for-Healthcare-Data/blob/main/WhatsApp%20Image%202024-10-24%20at%2012.46.40.jpeg" alt="Flowchart" style="width: auto; height: 200px;"/> 
+ <img src="https://github.com/Anwarulh007/MedHeaven--Federated-Learning-with-Homomorphic-Encryption-for-Healthcare-Data/blob/main/WhatsApp%20Image%202024-10-24%20at%2012.46.40.jpeg" alt="Medheaven" style="width: auto; height: 300px;"/> 
 </p>
+
 ## 📜 **Project Description**
 In this project, we work with a healthcare dataset to predict patient readmission rates using federated learning. To enhance privacy, we apply **homomorphic encryption** to encrypt the model weights during the federated learning process. This ensures that sensitive information, such as patient details, remains secure and only the encrypted model updates are shared.
 
@@ -22,7 +23,10 @@ In this project, we work with a healthcare dataset to predict patient readmissio
 - **Pandas**: For handling and cleaning the dataset.
 
 ## Flowchart
-<img src="https://github.com/Anwarulh007/MedHeaven--Federated-Learning-with-Homomorphic-Encryption-for-Healthcare-Data/blob/main/Flowchart%20Final.jpg" alt="Flowchart" width = "500">
+
+<p align="center"> 
+ <img src="https://github.com/Anwarulh007/MedHeaven--Federated-Learning-with-Homomorphic-Encryption-for-Healthcare-Data/blob/main/Flowchart%20Final.jpg" alt="Flowchart" style="width: auto; height: 300px;"/> 
+</p>
 
 ## 🚀 **Project Workflow**
 1. **Authentication**: Set up Google Drive as a global server to store model updates securely.
