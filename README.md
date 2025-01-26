@@ -67,7 +67,7 @@ The dataset used in this project consists of anonymized patient information from
 : A method to average model updates from multiple clients.
 
 <p align="center"> 
- <img src="https://github.com/Anwarulh007/MedHeaven--Federated-Learning-with-Homomorphic-Encryption-for-Healthcare-Data/blob/main/Federated%20Averaging.jpg" alt="Medheaven" style="width: auto; height: 200px;"/> 
+ <img src="https://github.com/Anwarulh007/MedHeaven--Federated-Learning-with-Homomorphic-Encryption-for-Healthcare-Data/blob/main/Federated%20Averaging.jpg" alt="Medheaven" style="width: auto; height: 100px;"/> 
 </p>
 
 
