@@ -9,6 +9,10 @@ This project demonstrates a privacy-preserving federated learning system using *
 ## 📜 **Project Description**
 In this project, we work with a healthcare dataset to predict patient readmission rates using federated learning. To enhance privacy, we apply **homomorphic encryption** to encrypt the model weights during the federated learning process. This ensures that sensitive information, such as patient details, remains secure and only the encrypted model updates are shared.
 
+<p align="center"> 
+ <img src="https://github.com/Anwarulh007/MedHeaven--Federated-Learning-with-Homomorphic-Encryption-for-Healthcare-Data/blob/main/FL%20Final.jpg" alt="Medheaven" style="width: auto; height: 350px;"/> 
+</p>
+
 ### Key Features:
 - **Federated Learning**: Train machine learning models across distributed datasets without transferring sensitive data to a central server.
 - **Homomorphic Encryption**: Securely encrypt model weights, enabling computations on encrypted data and preserving privacy throughout the learning process.
