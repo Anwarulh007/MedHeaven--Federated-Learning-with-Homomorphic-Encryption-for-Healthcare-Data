@@ -41,7 +41,7 @@ In this project, we work with a healthcare dataset to predict patient readmissio
 6. **Validation**: Compare encrypted and decrypted model weights to ensure accuracy and privacy preservation.
 
 ## 🚀 **Project Workflow Diagram**
-<img src="https://github.com/Anwarulh007/Medheaven/blob/main/flowchart%20pic.jpg" alt="Flowchart" width = "1000">
+<img src="https://github.com/Anwarulh007/MedHeaven--Federated-Learning-with-Homomorphic-Encryption-for-Healthcare-Data/blob/main/Presentation1%20(1).jpg" width = "1000">
 
 ## 🔐 **Privacy Preservation**
 This project is designed to ensure privacy at every step. By using **homomorphic encryption**, we maintain the confidentiality of model weights, and by using **federated learning**, no private data leaves the local environment. The privacy measure function checks for any discrepancies between the original and decrypted weights to guarantee privacy.
@@ -66,8 +66,17 @@ The dataset used in this project consists of anonymized patient information from
 **Federated Averaging**
 : A method to average model updates from multiple clients.
 
+<p align="center"> 
+ <img src="https://github.com/Anwarulh007/MedHeaven--Federated-Learning-with-Homomorphic-Encryption-for-Healthcare-Data/blob/main/Federated%20Averaging.jpg" alt="Medheaven" style="width: auto; height: 350px;"/> 
+</p>
+
+
 **Homomorphic Encryption**
 : Using this encryption model from TenSEAL to encrypt model parameters.
+
+<p align="center"> 
+ <img src="https://github.com/Anwarulh007/MedHeaven--Federated-Learning-with-Homomorphic-Encryption-for-Healthcare-Data/blob/main/Homomorphic%20Encryption.jpg" alt="Medheaven" style="width: auto; height: 350px;"/> 
+</p>
 
 ## 🌐 Contributors
 Anwarul - Project Lead and Developer
